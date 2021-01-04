@@ -7,7 +7,7 @@
 ## Hi, nice to meet you <img width="30" src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" alt="Sunglasses emoji" />
 
 <p>
-  I'm Luan, a Back-End Engineer based in 
+  I'm Nathan, a Back-End Engineer based in 
   <img width="16" src="https://www.flaticon.com/svg/static/icons/svg/197/197386.svg" alt="Brazil" />
   <b>Brazil</b>.
 </p>

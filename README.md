@@ -3,14 +3,33 @@
 <!--
 **ntferr/ntferr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+👨🏼‍🚀 Nathan Ferreira
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Github Badge Linkedin Badge Telegram Badge Gmail Badge
+Hi, nice to meet you Sunglasses emoji
+
+I'm Nathan, a Back-End Engineer based in Brazil Brazil.
+
+    🌎 From Blumenau-SC.
+    🎓 Studying Information System.
+    👾 Passionate about technology.
+    📚 Improving skills in Go, Microservices and Software Architecture.
+
+
+My Development Stack 🚀
+
+Application and Data
+
+golang python mongodb postgresql
+
+AWS
+
+kinesis sqs sns s3 rds
+
+DevOps
+
+docker jenkins
+
+Other Tools
+
+postman jira confluence bitbucket 

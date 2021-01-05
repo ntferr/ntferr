@@ -38,6 +38,7 @@
 <img title="SNS" height="32" src="https://iconape.com/wp-content/files/fv/370605/svg/aws-sns-logo-icon-png-svg.png" alt="sns"/>
 <img title="S3" height="32" src="https://iconape.com/wp-content/files/dt/352387/png/aws-s3-simple-storage-service-logo.png" alt="s3"/>
 <img title="RDS" height="32" src="https://iconape.com/wp-content/files/rq/33902/png/aws-rds.png" alt="rds"/>
+<img title="Elastic Search" height="32" src="https://img.icons8.com/color/48/000000/elasticsearch.png"/>
 </p>
 
 **DevOps**

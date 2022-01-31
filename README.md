@@ -61,5 +61,3 @@
   <img title="Confluence" height="32" src="https://seeklogo.com/images/C/confluence-logo-D9B07137C2-seeklogo.com.png" alt="confluence"/></code>
   <img title="Bitbucket" height="32" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/44_Bitbucket_logo_logos-512.png" alt="bitbucket"/>
 </p>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ntferr&hide=php&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)

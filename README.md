@@ -26,7 +26,7 @@
 <p>
   <img title="Golang" height="32" src="https://cdn.iconscout.com/icon/free/png-256/go-77-1175166.png" alt="golang"/>
   <img title="Python" height="32" src="https://cdn.iconscout.com/icon/free/png-256/python-2-226051.png" alt="python"/>
-  <img title="C#" height="32" src="https://e7.pngegg.com/pngimages/210/105/png-clipart-c-c-computer-programming-javascript-others-miscellaneous-purple.png" alt="c#">
+  <img title="C#" height="32" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" alt="c#">
 </p>
 
 **Database**

@@ -8,7 +8,7 @@
 
 <p>
   I'm Nathan, a Back-End Engineer based in 
-  <img width="16" src="https://www.flaticon.com/svg/static/icons/svg/197/197386.svg" alt="Brazil" />
+  <img width="22" src="https://cdn-icons-png.flaticon.com/512/3909/3909370.png" alt="Brazil" />
   <b>Brazil</b>.
 </p>
 

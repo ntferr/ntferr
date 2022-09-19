@@ -14,7 +14,7 @@
 
 <br/>
 
-- 🌎 From Blumenau-SC.
+- 🌎 Living in Blumenau-SC, Brazil.
 - 🎓 Studying Information System.
 - 👾 Passionate about technology.
 

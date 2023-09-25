@@ -12,9 +12,8 @@
 
 <br/>
 
-- 🌎 Living in Blumenau-SC, Brazil.
 - 🎓 Studying Information System.
-- 👾 Passionate about technology.
+- 👾 Passionate about technology, cryptocurrency and stock exchange.
 
 <br/>
 

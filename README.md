@@ -60,9 +60,7 @@
 </p>
 
 ## My Trophies
-<p>
-  ![](https://github-profile-trophy.vercel.app/?username=ntferr&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-</p>
+![](https://github-profile-trophy.vercel.app/?username=ntferr&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ![](https://github-readme-stats.vercel.app/api?username=ntferr&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ntferr&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)

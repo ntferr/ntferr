@@ -1,4 +1,4 @@
-# Nathan Ferreira
+# User
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ntfm/)](https://www.linkedin.com/in/ntfm/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:ntfm95@gmail.com)](mailto:ntfm95@gmail.com)
@@ -59,7 +59,9 @@
   <img title="Bitbucket" height="32" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/44_Bitbucket_logo_logos-512.png" alt="bitbucket"/>
 </p>
 
-## My Trophies
+## Stats
+
+### Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ntferr&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ![](https://github-readme-stats.vercel.app/api?username=ntferr&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>

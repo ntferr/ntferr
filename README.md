@@ -19,20 +19,20 @@
 
 ## My Development Stack 🚀
 
-**Back-end most skilled languages**
+### Back-end most skilled languages
 <p>
   <img title="Golang" height="32" src="https://cdn.iconscout.com/icon/free/png-256/go-77-1175166.png" alt="golang"/>
   <img title="Python" height="32" src="https://cdn.iconscout.com/icon/free/png-256/python-2-226051.png" alt="python"/>
   <img title="C#" height="32" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" alt="c#">
 </p>
 
-**Database**
+### Database
 <p>
   <img title="PostgreSQL" height="32" src="https://cdn.iconscout.com/icon/free/png-256/postgresql-8-1175119.png" alt="postgresql"/>
 </p>
 
 
-**AWS**
+### AWS
 <p>
   <img title="Kinesis" height="32" src="https://iconape.com/wp-content/files/ke/33749/png/aws-kinesis.png" alt="kinesis"/>
   <img title="SQS" height="32" src="https://iconape.com/wp-content/files/wb/370606/svg/aws-sqs-logo-icon-png-svg.png" alt="sqs"/>
@@ -42,14 +42,14 @@
   <img title="Elastic Search" height="32" src="https://img.icons8.com/color/48/000000/elasticsearch.png"/>
 </p>
 
-**DevOps**
+### DevOps
 <p>
   <img title="Docker" height="32" src="https://cdn.iconscout.com/icon/free/png-256/docker-12-1175229.png" alt="docker"/>
   <img title="Kubernetes" height="32" src="https://img.icons8.com/color/48/000000/kubernetes.png"/>
   <img title="Jenkins" height="32" src="https://cdn.iconscout.com/icon/free/png-256/jenkins-1-282385.png" alt="jenkins"/>
 </p>
 
-**Other Tools**
+### Other Tools
 <p>
   <img title="VSCode" height="32" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
   <img title="Pycharm" height="32" src="https://img.icons8.com/color/48/000000/pycharm.png"/>
@@ -59,8 +59,10 @@
   <img title="Bitbucket" height="32" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/44_Bitbucket_logo_logos-512.png" alt="bitbucket"/>
 </p>
 
-**My Trophies**
-![](https://github-profile-trophy.vercel.app/?username=ntferr&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+## My Trophies
+<p>
+  ![](https://github-profile-trophy.vercel.app/?username=ntferr&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+</p>
 
 ![](https://github-readme-stats.vercel.app/api?username=ntferr&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ntferr&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)

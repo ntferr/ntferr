@@ -1,8 +1,10 @@
 ## User
 
-Name: Nathan Ferreira da Silva
-Country: Brazil
-Description: 
+**Name**: Nathan Ferreira da Silva
+
+**Country**: Brazil
+
+**Description**: 
 - 👾 Passionate about technology, cryptocurrency and stock exchange.
 - 🎓 Studying Information System.
 - 📚 Studying english.

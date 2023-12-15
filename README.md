@@ -1,23 +1,17 @@
-# User
+## User
+
+Name: Nathan Ferreira da Silva
+Country: Brazil
+Description: 
+- 👾 Passionate about technology, cryptocurrency and stock exchange.
+- 🎓 Studying Information System.
+- 📚 Studying english.
+- 🐶 Dog lover.
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ntfm/)](https://www.linkedin.com/in/ntfm/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:ntfm95@gmail.com)](mailto:ntfm95@gmail.com)
 
-
-<p>
-  I'm Nathan, a Back-End Engineer based in 
-  <img width="22" src="https://cdn-icons-png.flaticon.com/512/3909/3909370.png" alt="Brazil" />
-  <b>Brazil</b>.
-</p>
-
-<br/>
-
-- 🎓 Studying Information System.
-- 👾 Passionate about technology, cryptocurrency and stock exchange.
-
-<br/>
-
-## My Development Stack 🚀
+## Stack
 
 ### Back-end most skilled languages
 <p>

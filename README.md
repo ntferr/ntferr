@@ -15,18 +15,25 @@
 
 ## Stack
 
-### Back-end most skilled languages
+### Back-end
 <p>
   <img title="Golang" height="32" src="https://cdn.iconscout.com/icon/free/png-256/go-77-1175166.png" alt="golang"/>
   <img title="Python" height="32" src="https://cdn.iconscout.com/icon/free/png-256/python-2-226051.png" alt="python"/>
   <img title="C#" height="32" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" alt="c#">
+  <img title="JS" height="32" src="https://github.com/ntferr/ntferr/assets/14029559/dbbf794c-e0e9-46e3-950a-3d6ecc306901" alt="JS">
+</p>
+
+### Front-end
+<p>
+  <img title="Angular" height="32" src="https://github.com/ntferr/ntferr/assets/14029559/5441920d-8e05-4369-b721-0cfdc98d6079" alt="angular">
+  <img title="Svelte" height="32" src="https://github.com/ntferr/ntferr/assets/14029559/67cdfd23-80fb-46b8-8199-0821024138a0" alt="Svelte">
 </p>
 
 ### Database
 <p>
   <img title="PostgreSQL" height="32" src="https://cdn.iconscout.com/icon/free/png-256/postgresql-8-1175119.png" alt="postgresql"/>
+  <img title="SQLServer" height="32" src="https://github.com/ntferr/ntferr/assets/14029559/f64faa92-5e62-4fd5-93ea-9be5c65eefb8" alt="SQLServer"/>
 </p>
-
 
 ### AWS
 <p>
@@ -37,6 +44,8 @@
   <img title="RDS" height="32" src="https://iconape.com/wp-content/files/rq/33902/png/aws-rds.png" alt="rds"/>
   <img title="Elastic Search" height="32" src="https://img.icons8.com/color/48/000000/elasticsearch.png"/>
 </p>
+
+### Azure
 
 ### DevOps
 <p>

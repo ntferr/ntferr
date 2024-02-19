@@ -9,7 +9,7 @@ Nathan Ferreira da Silva
 Brazil
 
 **Description**:
-- 💻 Dev Backend at Pagarme.
+- 💻 Dev Backend at Stone.
 - 👾 Passionate about technology, cryptocurrency and stock exchange.
 - 🎓 Studying Information System.
 - 📚 Studying english.

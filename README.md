@@ -1,12 +1,5 @@
-# Profile
-
-**Name**: 
-
-Nathan Ferreira da Silva
-
-**Country**: 
-
-Brazil
+**Name**: Nathan Ferreira
+**Country**: Brazil
 
 **Description**:
 - 💻 Dev Backend at Stone.
